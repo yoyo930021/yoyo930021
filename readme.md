@@ -32,7 +32,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoyo930021&show_icons=true&locale=en&layout=compact&theme=dark" alt="yoyo930021" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yoyo930021&show_icons=true&locale=en&layout=compact&theme=dark" alt="yoyo930021" />
 </p>
 
 <p align="center">
